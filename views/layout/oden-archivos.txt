@@ -1,0 +1,6 @@
+header.php
+loader.php
+navbar.php
+sidebar.php
+content-area.php
+footer.php
